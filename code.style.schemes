@@ -1,0 +1,17 @@
+<application>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value version="173">
+        <PHPCodeStyleSettings>
+          <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
+        </PHPCodeStyleSettings>
+        <codeStyleSettings language="PHP">
+          <indentOptions>
+            <option name="SMART_TABS" value="true" />
+          </indentOptions>
+        </codeStyleSettings>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
+  </component>
+</application>
