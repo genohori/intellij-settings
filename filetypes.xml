@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="openssl_pkcs12_export_to_file" type="PLAIN_TEXT" />
       <mapping pattern=".env_org" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
